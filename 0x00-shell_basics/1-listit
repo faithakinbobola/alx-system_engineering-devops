@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cd ~/00x0-shell_basics; echo *)
+echo $(ls)

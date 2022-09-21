@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "They are: $(find ~/1-listit)"
+echo $(cd ~/00x0-shell_basics; echo *)

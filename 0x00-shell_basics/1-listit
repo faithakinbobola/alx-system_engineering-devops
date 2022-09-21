@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "The contents are: $(find ~/1-listit)"
+Applications
+Documents
+Dropbox
+Movies
+Pictures
+Desktop
+Movies
+Pictures
+Desktop
+Library
+Music
+Public
